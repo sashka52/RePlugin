@@ -91,7 +91,7 @@ println(
 	+ "\n pbGitUrl = ${pbGitUrl}"
 	+ "\n pbIssueUrl = ${pbIssueUrl}"
     + "\n License = ${pbLicense}(${pbLicenseUrl})"
-    + "\n pbArtifactId = ${pbArtifactId}"
+    + o"\n pbArtifactId = ${pbArtifactId}"
     + "\n mUser = ${mUser}"
     + "\n mPwd = ${mPwd}"
 	+ "\n pbBintayKey = ${pbBintayKey}"
